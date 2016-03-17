@@ -1,6 +1,6 @@
 name: Caitrin
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.35493
 title: I am Caitrin.
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.75
   saturation: 0.9375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
