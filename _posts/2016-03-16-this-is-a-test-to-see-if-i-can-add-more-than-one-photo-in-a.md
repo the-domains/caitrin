@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "This is a test to see if i can add more than one photo in a post. And then different text per photo.\_"
-datePublished: '2016-03-16T12:18:04.362Z'
-dateModified: '2016-03-16T12:17:48.692Z'
+datePublished: '2016-03-21T00:48:24.372Z'
+dateModified: '2016-03-16T12:18:38.612Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-this-is-a-test-to-see-if-i-can-add-more-than-one-photo-in-a.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-this-is-a-test-to-see-if-i-can-add-more-than-one-photo-in-a.md
-published: true
 url: this-is-a-test-to-see-if-i-can-add-more-than-one-photo-in-a/index.html
 _type: Article
 
